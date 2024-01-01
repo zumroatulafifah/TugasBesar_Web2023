@@ -2,13 +2,34 @@
 
 <h2>Overview</h2>
 
-<p>Digital Library adalah platform modern yang menghadirkan pengalaman membaca yang dinamis dan terkini. Sebagai perpustakaan digital, kami menyediakan akses mudah dan cepat ke berbagai jenis materi bacaan, termasuk buku, jurnal, dan artikel. Dengan koleksi yang luas, kami berkomitmen untuk memenuhi kebutuhan pembaca dari berbagai latar belakang dan minat. Digital Library kami bertujuan untuk menjadi sumber daya bacaan yang terpercaya dan inspiratif bagi individu, akademisi, dan pecinta literasi di seluruh dunia. Mari bergabung dan temukan dunia pengetahuan yang tak terbatas di Digital Library!</p>
+<p>Digital Library is a modern platform that delivers a dynamic and up-to-date reading experience. As a digital library, we provide easy and fast access to various types of reading materials, including books, journals and articles. With an extensive collection, we are committed to meeting the needs of readers from various backgrounds and interests. Our Digital Library aims to be a trusted and inspiring reading resource for individuals, academics and literacy lovers around the world. Come join and discover the infinite world of knowledge in the Digital Library!</p>
 
-<h2>Fitur : </h2>
-<p>1. Tambah Buku / Jurnal / Artikel : Pengguna dapat menambahkan buku / jurnal / artikel baru ke basis data perpustakaan, kemudian pengguna dapat memberikan detail penting untuk katalogisasi yang akurat, seperti Judul, Penulis, Penerbit, ISBN, Jumlah Halaman, Kategori, Tahun Terbit dan lain sebagainya, sesuai form yang disediakan. </p>
-<p>2. Lihat Detail Buku / Jurnal / Artikel : Informasi detail tentang setiap buku / jurnal / artikel tersedia, termasuk judul, penulis, tahun penerbitan, kategori, dan status ketersediaan.</p>
-<p>Cari Buku / Jurnal / Artikel : Pengguna dapat dengan mudah mencari buku / Jurnal / Artikel berdasarkan judul.</p>
+<h2>Feature : </h2>
+<p>* Add Book/Journal/Article: Users can add new books/journals/articles to the library database, then users can provide important details for accurate cataloging, such as Title, Author, Publisher, ISBN, Number of Pages, Category, Year of Publication and others so on, according to the form provided.  </p>
+<p>* View Book / Journal / Article Details : Detailed information about each book / journal / article is available, including title, author, year of publication, category and availability status.</p>
+<p>* Search for Books / Journals / Articles: Users can easily search for books / Journals / Articles by title.</p>
 
-<h3>Memulai Program</h3>
-<p></p>
+<h3>Prerequisites</h3>
+<p>1. PHP 8.2.4</p>
+<p>2. Xampp</p>
+<p>3. IDE (VSCode, etc)</p>
 
+<h3>Installing</h3>
+<p>1. Clone Repository</p>
+<p>Git Clone https://github.com/zumroatulafifah/TugasBesar_Web2023.git</p>
+
+<p>2. Import Database MySql (Don't forget to activate Xampp)</p>
+<p>https://drive.google.com/drive/u/0/folders/1rlcb-ZQ7mjFMjy2bgjaDaI_uLdndMnqy</p>
+
+<p>3. Open the Project Directory</p>
+<p>cd TugasBesar_Web2023</p>
+
+<p>4. Run the project</p>
+<p>Open Terminal and type command code . </p>
+
+<h2>Usage : </h2>
+<p>1. Sign Up first if you don't have an account yet.</p>
+<p>2. Sign In if you already have an account, and enter the appropriate username and password.</p>
+<p>3. Access the Journal / Book / Article Data Menu to add and also view book data.</p>
+
+<p>Thank U 🤍</p>
